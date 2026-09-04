@@ -41,7 +41,7 @@
 - [Image Classification Scavenger Hunt](https://editor.p5js.org/ml5/sketches/ImageClassification_VideoScavengerHunt)
 - [Canvas Image Classification_on Doodles](https://editor.p5js.org/ml5/sketches/ImageClassification_DoodleNet_Canvas)
 - [Webcam Image Classification_on Doodles](https://editor.p5js.org/ml5/sketches/ImageClassification_DoodleNet_Video)
-- Class sketch: https://editor.p5js.org/yining/sketches/bIXnzpkPu
+- Class sketch: https://editor.p5js.org/yining/sketches/50GN2UvO4
 
 ### p5.js review
 
