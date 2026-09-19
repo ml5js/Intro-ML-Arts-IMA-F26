@@ -67,7 +67,7 @@
 - [BodySegmentation - Mask Body Parts with BodyPix](https://editor.p5js.org/ml5/sketches/ruoyal-RC)
 - [BodySegmentation - Mask Select Body Parts with BodyPix](https://editor.p5js.org/ml5/sketches/R5rug0HKk)
 - class sketch: https://editor.p5js.org/yining/sketches/-6mNeDA86
-- class sketch 2: https://editor.p5js.org/yining/sketches/VFMeSVLB2
+- class sketch 2: https://editor.p5js.org/yining/sketches/VFMeSVLB2, https://editor.p5js.org/yining/sketches/fuDv8fA_3
 
 #### Creative Applications
 
