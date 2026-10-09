@@ -16,7 +16,7 @@
 
 1. [Download](https://www.arduino.cc/en/main/software) Arduino IDE
 2. [Download](https://github.com/p5-serial/p5.serialcontrol/releases) p5 serial app (Don't open the app yet)
-3. Run p5 code in p5 web editor [sketch](https://editor.p5js.org/yining/sketches/eHYnYa5BR) (Remember to update the portName and mySoundModelURL, and update class names to your own classes.)
+3. Run p5 code in p5 web editor: https://editor.p5js.org/yining/sketches/4E2Y4qLV8 ~~[sketch](https://editor.p5js.org/yining/sketches/eHYnYa5BR)~~ (Remember to update the portName and mySoundModelURL, and update class names to your own classes.)
 4. Build the arduino circuit like the image above
 5. Upload Arduino code to the Arduino board, You can find [here](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week4-soundClassifier/teachableMachineArduino-sound/arduino_code)
 6. Open p5 serial app(don't open any port in the p5 serial app, just keep the app open)
