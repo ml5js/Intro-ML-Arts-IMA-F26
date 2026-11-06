@@ -8,7 +8,7 @@ Final projects can be collaborations with anyone in any class. Final projects ca
 
 Other notes:
 
-1. Keeping things simple and small in scope is a plus. If your project idea is a big one, consider documenting the larger idea but implementing just a small piece of it.
+1. ~`Keeping things simple and small in scope is a plus~~. If your project idea is a big one, consider documenting the larger idea but implementing just a small piece of it.
 2. Also think about making a final project for a small audience, even one single person like a family member or friend. . . or yourself. This can be a good way to focus your idea and design process. "Generalizing" the idea can come later (or maybe not at all.)
 
 ## Proposal Guidelines
