@@ -39,9 +39,11 @@
 
 ### 12: [Final Project Work session](final) + Runway [workflow](https://academy.runwayml.com/workflows/using-workflows) + Gemini Nano banana 3, [doc](https://ai.google.dev/gemini-api/docs/image-generation), [sketch](https://github.com/ml5js/Intro-ML-Arts-IMA-F26/blob/main/10-image-models/README.md#code-examples-and-implementations) Workshop (11/20)
 
-### 13: [Final Project Play Testing](final) (11/25 Wednesday)
+No class on 11/27 (Thanksgiving).
 
-### 14: [Final Project Presentations](final) (12/4)
+### 13: [Final Project Play Testing](final) (12/4)
+
+### 14: [Final Project Presentations](final) (12/11)
 
 ## Community Guidelines
 
